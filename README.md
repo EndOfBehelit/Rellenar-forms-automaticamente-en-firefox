@@ -16,7 +16,7 @@ Puede utilizarse para rellenar cualquier formulario web, pero se deben modificar
    pip install selenium
    ```
 
-#Descargar script y configurar mediante el programador de tareas
+# Descargar script y configurar mediante el programador de tareas
 - Descargar script y comprobar que funciona antes de programarlo.
 
 - Configurar el programador de tareas via GUI
