@@ -24,7 +24,8 @@ Puede utilizarse para rellenar cualquier formulario web, pero se deben modificar
    - Puedes hacerlo de dos maneras:  
      - **Manual:** inspeccionando el formulario con el navegador y ajustando los XPaths o atributos en el script.  
      - **Automático:** usando scraping para detectar y asignar los campos dinámicamente.
-       En este caso se ha hecho de forma manual porque es para un simple formulario que siempre mantiene los nombres, en caso de necesitarlo para
+       
+   En este caso se ha hecho de forma manual porque es para un simple formulario que siempre mantiene los nombres, en caso de necesitarlo para
        algo más complejo, recomiendo la segunda opción.
 
 - Configurar el programador de tareas via GUI
