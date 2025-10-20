@@ -32,7 +32,7 @@ Puede utilizarse para rellenar cualquier formulario web, pero se deben modificar
   Esto puede realizarse también por comando, pero nunca había usado el programador de tareas y he querido hacerlo usando la GUI.
   <img width="832" height="576" alt="imagen" src="https://github.com/user-attachments/assets/9b05ebcf-273c-40da-961b-6436c246497e" />
   <img width="1020" height="575" alt="imagen" src="https://github.com/user-attachments/assets/3ad73344-1816-4d51-82df-ae950fabc830" />
-  <img width="918" height="552" alt="imagen" src="https://github.com/user-attachments/assets/ecfcaf4b-31a1-4fd1-8254-36d672873e46" />
+  <img width="1046" height="537" alt="imagen" src="https://github.com/user-attachments/assets/1f613310-d188-4fed-856f-ac0a7296d329" />
   <img width="683" height="494" alt="imagen" src="https://github.com/user-attachments/assets/2cda2c39-cc1b-4335-b490-58c66b627bcb" />
 
 
